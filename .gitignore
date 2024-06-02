@@ -1,0 +1,9 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named
+bin
+lib
+.settings
+.classpath
+.project
